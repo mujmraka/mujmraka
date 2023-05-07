@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bojan
-- 👀 I’m interested in Javascript and React.
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in ASP.NET and Javascript.
+- 🌱 I’m Software Engineer working in Fintech focusing on Backend development in ASP.NET
 - 📫 How to reach me? On my email: bojan.mujadin@gmail.com
 
 <!---
